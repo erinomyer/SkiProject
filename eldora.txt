@@ -1,0 +1,153 @@
+LOGO
+      _
+     / \    ___     __  ___  _    *
+   _/   \   |__ |   | \ |  | |_\ /_\      __/\
+  /     /\  |__ |__ |_/ |__| | \ | |   __/_/  \
+ /     /  \_/\              _      __ /_/  \   \_
+/     /    \\ \_         __/ \_  _/  /      \   \\_
+  /         \\ \\_______/      \//  /      _/    _ \
+/               \  \           //  /      /     / \ \
+
+LIFT MAP
+                                                      _                         _
+                                                     //\       _               /\\
+                                                    //        /\\                \\
+                                                   //           \\                \\
+                                                  //             \\                \\
+                     _                           //               \\                \\
+            ___     /\\                         //                 \\                \\
+           / ||       ||                       //                   \\                \\
+             ||   _   ||                      //                     \\                \\
+              \\ /||  ||                     //                       \\                \\
+      __      ||  ||   \\   _               //                         \\                \\
+     / \\     ||  ||    || /||             //                           \\                \\
+        \\    ||  ||    \\  ||            //                             \\                \\
+         \\    \\  \\    ||  \\          //                               \\                \\
+    __   \\    ||  ||    ||   ||        //                                 \\                \\
+   / \\   \\    \\ ||     \\  ||       //                                   \\                \\
+     \\   \\    ||  \\    ||   \\     //                                     \\                \\
+     \\   \\    \\   \\   ||    ||   //                                       \\                \\
+    |TF|  |LH| |EZ| |CB| |SD|  |RG| ASPENGLOW                                  \\             CORONA 
+                                                                                \\                
+                                                                            INDIAN PEAKS         
+
+MAP OF SLOPES
+                                                                                    __________BRYAN MOUNTAIN______
+                                                ___CHALLENGE MOUNTAIN_____________|PL|     _____/ TT     TT \_
+                                               /   /   TTTTT  / TT \ TT \ TTTTTTTTTTT  ___/\ T \ TTT      TTT \_
+                    TT TTTTTTTTTTTT T TT    _/ TT /  TTTTTTTT / TT / T   | \ TTTTTT __/ \ T \ T \ TT      TTTTT \
+                    TT TTTTTTTTT T T T TT  | TTT |  TTTTTTTT / TT / TTTT |  \ TTT |WB|   \ T \ T \ T       TTTTT \__
+                    TT TTTTTTTT T |JJG| TT / TT /  \  TTTTT / TT /\  TTT /   \ TT / \ TTT | T \ T \         TTTTTTT \__ TT
+                    TT TTTTTTT T  T T T T /  TT | T \ TTTT / TT /  \ TT |WM|  \  / T \ TT |  |WT|  \         TTTTTTTTT \  T |MG|
+                    TT TTTTTTTT T T T T |JJ| TT /TT  / TTT/ TT  \ T \ T  \   |HB| TTT \ TT \ TT \ T |         TTTTTTTT / T T TT
+                    TT TTTTTTTTTT T TT  / TTT / TT  / TT / TT   / TT |    \   / \ TTTT \ T |AH|  | T \         TTTTTT / T T TTT T
+                    TT TTTTTTTTTT  T  / TT  / TT  / TT  / TT|PSY|TTT / TT  |  \  \ TTT  \_ T \ T | TT |         TTTT / T TT TTT TT
+             ___   TTT TTTTTTTTT   _/ TT |PH|T |CH|  |CB| T / TTTTT | TTT  /  /  / T T T  \ T \  | T |CO|       TTT | T T T TT TTTT
+          __/ T / TTT TTTTTTTTTT  / TT  / TTT  / TTT /  TT / TTT |LBD| TT   / T / T T T T  \ T \ | TT |         TTT | TT TT TT TTT T
+         / TT  / TTTT TTTTTTTT   / T /// TT  / TTTT / TTT / TTT  / TTT  / / TT | T T T T T  \ T \  TT |         TT |WR| TTT T TTTT TT
+    |    \  TT | TTT TTTTTTTTTT | ////  TT  / TTT / TT  / TTT  / TTT  / / TTT |AM| T T T T  |MS| | TT |          TTT \ TTTT  TTTT TTT
+    | TT  \ TT \ TTT TTTTTTTTTT / TTTTTT  / TTT / TTT / TTTT  / TT  / \ TTTTT  | \  T |PG| T  \_ | TT |           TTT \ TTTT TTT TTT
+   / TTT |UBF| T\ TTTT TTTTTTT /  TTTT  / TTT  / TTT/  TTTT _/ TTT / T \ TTTT /|  \ T T T T T T \| TT |           TTTT \ TTT TT TTT
+   \  TTTT  \_ T \\TT \   \TT  | ///// // TT  / TTT  TTTT  / TTT  / TTT \_  _/ \ T \_ T T T T T T \ T |     TTT \  TTTT | TT T TT
+\_  \_ TTT   \ TT \\\\ \   \TT  \ TTT \ TTT  / TT / TTT  / TTT   / TTTT __/\ TT | TT \_ T T T T T  \  |     TT |CA| TTT | T TTTT
+T \_  \_ TTT  \ T | TT  \   \TT  \ TT  \ T / TT / TTT  / TTTTT  / TT___/ TT |  |LAM| T \_ T T T T T  \ |      TTT  \ TT |  TTTT
+TT  \_  \_ TT  \TT \ T  \    \TT  \  TT \ //////  T  / TTTTTTT /___/ TTTTTTT \ T | TTTT |ATH| TTTTTTT  \|      TTTT \ T / TTTT
+TTTT  \_  \_   | T | TT  \    \T   \  TT \//       / TTTTTTT__/ TTTTTTTTTTTTT \ T \ TTTTTT  \_ TTTTTTTT \       TTTT \ / TTTT
+TTTTTT  \ |LH||BF||SD|  |TD| |CH| |SS|  |MW|     /  TTTTT__/ TTTTTTTTTTTTTTTT | TT | TTTTTTT  \___ TTTTT \       TTT  / TTTT
+TTTTTT |UB| \  |   |         ASPENGLOW           \______/ TTTTTTTTTTTTTTTTTTT \ TT | TTTTTTTTTTTT \___TTT \         _/ TTTT
+                                            _____/|4'0| TTTTTTTTTTTTTTTTTTTT   \_______ TTTTTTTTTTTT  \_TTT\     __/ TTTT
+                                                                                INDIAN PEAKS  TTTTTTTTT  \_CORONA
+
+
+SLOPE & LIFT LIST
+
+LIFT: LITTLE HAWK LIFT
+    LITTLE HAWK (G)
+    UNCLE BOB'S (G)
+LIFT: TENDERFOOT
+    BUNNY SLOPE (G)
+LIFT: EZ LIFT
+    BUNNYFAIR (G)
+    EASY WAY (G)
+    FUN GULLY (G)
+    FOXTAIL (G)
+LIFT: CARIBOU
+    RYDER'S (G)
+    BUNNYFAIR (G)
+LIFT: SUNDANCE
+    SUNDANCE (B)
+    UPPER BUNNYFAIR (B)
+    BUNNYFAIR (G)
+    EASY WAY (G)
+    FUN GULLY (G)
+    FOXTAIL (G)
+    LITTLE HAWK (G)
+    UNCLE BOB'S (G)
+LIFT: RACE
+    CHUTE (B)
+    TRICK DITCH (B)
+LIFT: ALPENGLOW
+    PIPELINE (B)
+    JOLLY JUG (B)
+    POWDERHORN (B)
+    GLADES (DB)
+    JOLLY JUG GLADES (DB)
+    CHALLENGE (BD)
+    MARY'S WAY (BD)
+    CANNONBALL RUN (BD)
+    PSYCHOPATH (BD)
+    HOTDOG ALLEY (B)
+    LA BELLE DAME (B)
+    CREWCUT (B)
+    WINDMILL (B)
+    KLONDIKE (B)
+    INTERNATIONAL (B)
+    FOUR O'CLOCK TRAIL (B)
+    UPPER DIAMONDBACK (BD)
+    LOWER DIAMONDBACK (B)
+    HORNBLOWER (B)
+    AROUND THE HORN (B)
+    DREAM & SCREAM (B)
+    SIDEWINDER (B)
+    CORONA TRV (B)
+    AMBUSH (DB)
+    LOWER AMBUSH (B)
+    CORONA ROAD (B)
+LIFT: INDIAN PEAKS LIFT
+    PIPELINE (B)
+    LIFTLINE (DB)
+    WINDMILL (B)
+    HORNBLOWER (B)
+    AROUND THE HORN (B)
+    SIDEWINDER (B)
+    LA BELLE DAME (B)
+    MULESHOE (BD)
+    PLACER GLADES (DB)
+    DREAM & SCREAM (B)
+    CORONA TRV (B)
+    AMBUSH (DB)
+    LOWER AMBUSH (B)
+    UPPER DIAMONDBACK (BD)
+    LOWER DIAMONDBACK (B)
+    KLONDIKE (B)
+    INTERNATIONAL (B)
+    CORONA ROAD (B)
+    FOUR O'CLOCK TRAIL (B)
+LIFT: CORONA LIFT
+    WAYBACK (B)
+    PIPELINE (B)
+    WESTRIDGE (DB)
+    CHUTE 1 (DB)
+    CHUTE 2 (DB)
+    CHUTE 3 (DB)
+    MOOSE GLADES (DB)
+    CASCADE (BD)
+    SALTO GLADES (DB)
+    CORONA (BD)
+    BRIAN'S GLADES (DB)
+    WOLF TONGUE (BD)
+    ALPENHORN (BD)
+    GULLY GLADES (DB)
+    REDTAIL (BD)
+    MULESHOE (BD)
+    INTERNATIONAL (B)
